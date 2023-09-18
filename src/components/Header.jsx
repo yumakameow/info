@@ -35,19 +35,19 @@ const Header = ({darkTheme, setDarkTheme}) => {
                 <p className='text-xl font-bold border-b border-white'>Share</p>
                 <div className='grid grid-cols-3 justify-items-center pt-2'>
                   <div>
-                    <FacebookShareButton url='https://bio.agengari.my.id' className='grid grid-cols-1 justify-items-center'>
+                    <FacebookShareButton url='https://facebook.com/yumaka' className='grid grid-cols-1 justify-items-center'>
                       <FacebookIcon size={46} round={true} />
                       <p>Facebook</p>
                     </FacebookShareButton>
                   </div>
                   <div>
-                    <WhatsappShareButton url='https://bio.agengari.my.id' className='grid grid-cols-1 justify-items-center'>
+                    <WhatsappShareButton url='https://whatsapp.com/yumaka' className='grid grid-cols-1 justify-items-center'>
                       <WhatsappIcon size={46} round={true} />
                       <p>Whatsapp</p>
                     </WhatsappShareButton>
                   </div>
                   <div>
-                    <TelegramShareButton url='https://bio.agengari.my.id' className='grid grid-cols-1 justify-items-center'>
+                    <TelegramShareButton url='https://t.me/yumakai' className='grid grid-cols-1 justify-items-center'>
                       <TelegramIcon size={46} round={true} />
                       <p>Telegram</p>
                     </TelegramShareButton>
