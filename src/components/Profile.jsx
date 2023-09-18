@@ -5,7 +5,7 @@ const Profile = () => {
   return (
     <div className="grid max-w-sm gap-2 mx-auto -mt-16 text-center">
       <section className="grid justify-center">
-        <img src={require('../assets/img/1675760889282.jpg')} alt="Foto Profil" className="rounded-full h-28" />
+        <img src={require('../assets/img/chubaka.jpg')} alt="Foto Profil" className="rounded-full h-28" />
       </section>
       <section className="mx-auto align-middle">
         <p className="flex mt-4 text-xl font-bold text-slate-900 dark:text-white ">
