@@ -9,16 +9,16 @@ const Profile = () => {
       </section>
       <section className="mx-auto align-middle">
         <p className="flex mt-4 text-xl font-bold text-slate-900 dark:text-white ">
-          Ageng Ari .N.{' '}
+          Yumaka.N.{' '}
           <span className="pl-2 text-2xl text-blue-700">
             <VscVerifiedFilled />
           </span>
         </p>
       </section>
       <section className="text-sm">
-        <p className="">Based in 📌 Yogyakarta, Indonesia</p>
+        <p className="">Based in Moscow 🏴</p>
         <p>
-          <span> </span> Interest in Front-End Web Developer.
+          <span> </span> Interest in Full-Stack Developer.
         </p>
       </section>
       <section className=""></section>
